@@ -91,36 +91,36 @@ export const assets = {
 
 export const menu_list = [
     {
-        menu_name: "Salad",
-        menu_image: menu_1
-    },
-    {
-        menu_name: "Rolls",
-        menu_image: menu_2
-    },
-    {
-        menu_name: "Deserts",
-        menu_image: menu_3
-    },
-    {
-        menu_name: "Sandwich",
+        menu_name: "Peanuts",
         menu_image: menu_4
     },
     {
-        menu_name: "Cake",
+        menu_name: "Sev",
+        menu_image: menu_2
+    },
+    {
+        menu_name: "Fryms",
+        menu_image: menu_3
+    },
+    {
+        menu_name: "Fries",
+        menu_image: menu_8
+    },
+    {
+        menu_name: "Cheese Balls",
         menu_image: menu_5
     },
     {
-        menu_name: "Pure Veg",
+        menu_name: "Pipe",
         menu_image: menu_6
     },
     {
-        menu_name: "Pasta",
+        menu_name: "Gathiya",
         menu_image: menu_7
     },
     {
-        menu_name: "Noodles",
-        menu_image: menu_8
+        menu_name: "Namkeen",
+        menu_image: menu_1
     }]
 
 export const food_list = [
@@ -130,85 +130,85 @@ export const food_list = [
         image: food_1,
         price: 10,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Salad"
+        category: "Pipe"
     },
     {
         _id: "2",
-        name: "Rings",
+        name: "Mixture",
         image: food_2,
         price: 5,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Salad"
+        category: "Namkeen"
     }, {
         _id: "3",
         name: "Salted Refill",
         image: food_3,
         price: 5,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Salad"
+        category: "Fryms"
     }, {
         _id: "4",
         name: "Butter Bowl",
         image: food_4,
         price:  5,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Salad"
+        category: "Fryms"
     }, {
         _id: "5",
         name: "Cheese Balls",
         image: food_5,
         price: 20,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Rolls"
+        category: "Cheese Balls"
     }, {
         _id: "6",
         name: "Tomato Rings",
         image: food_6,
         price: 5,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Rolls"
+        category: "Fryms"
     }, {
         _id: "7",
         name: "Kaju Puffs",
         image: food_7,
         price: 5,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Rolls"
+        category: "Cheese Balls"
     }, {
         _id: "8",
         name: "Tik Tok",
         image: food_8,
         price: 20,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Rolls"
+        category: "Namkeen"
     }, {
         _id: "9",
         name: "Masala Vatki",
         image: food_9,
         price: 20,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Deserts"
+        category: "Fryms"
     }, {
         _id: "10",
         name: "Cheese corn balls",
         image: food_10,
         price: 5,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Deserts"
+        category: "Cheese Balls"
     }, {
         _id: "11",
         name: "Mix Fryms",
         image: food_11,
         price: 10,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Deserts"
+        category: "Fryms"
     }, {
         _id: "12",
         name: "Bhindi Fryms",
         image: food_12,
         price: 20,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Deserts"
+        category: "Fryms"
     },
     {
         _id: "13",
@@ -216,7 +216,7 @@ export const food_list = [
         image: food_13,
         price: 5,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Sandwich"
+        category: "Fries"
     },
     {
         _id: "14",
@@ -224,21 +224,21 @@ export const food_list = [
         image: food_14,
         price: 5,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Sandwich"
+        category: "Fries"
     }, {
         _id: "15",
         name: "Snakes & Ladder",
         image: food_15,
         price: 20,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Sandwich"
+        category: "Namkeen"
     }, {
         _id: "16",
         name: "Top Gear",
         image: food_16,
         price: 20,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Sandwich"
+        category: "Pipe"
     }, {
         _id: "17",
         name: "Army man",
@@ -252,49 +252,49 @@ export const food_list = [
         image: food_18,
         price: 20,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Cake"
+        category: "Fries"
     }, {
         _id: "19",
         name: "Sticks",
         image: food_19,
         price: 5,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Cake"
+        category: "Pipe"
     }, {
         _id: "20",
         name: "Corn Sev Samosa",
         image: food_20,
         price: 15,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Cake"
+        category: "Sev"
     }, {
         _id: "21",
         name: "Papdi Gathiya ",
         image: food_21,
         price: 10,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Pure Veg"
+        category: "Gathiya"
     }, {
         _id: "22",
         name: "Masala Papad",
         image: food_22,
         price: 10,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Pure Veg"
+        category: "Fries"
     }, {
         _id: "23",
         name: "Ratlami Sev",
         image: food_23,
         price: 10,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Pure Veg"
+        category: "Sev"
     }, {
         _id: "24",
         name: "Tikha Gathiya",
         image: food_24,
         price: 10,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Pure Veg"
+        category: "Gathiya"
     },
     {
         _id: "25",
@@ -302,7 +302,7 @@ export const food_list = [
         image: food_25,
         price: 10,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Pasta"
+        category: "Pipe"
     },
     {
         _id: "26",
@@ -310,48 +310,48 @@ export const food_list = [
         image: food_26,
         price: 5,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Pasta"
+        category: "Pipe"
     }, {
         _id: "27",
         name: "Manchurian Balls",
         image: food_27,
         price: 20,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Pasta"
+        category: "Cheese Balls"
     }, {
         _id: "28",
         name: "Pipes",
         image: food_28,
         price: 10,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Pasta"
+        category: "Pipe"
     }, {
         _id: "29",
         name: "Roasted Chana",
         image: food_29,
         price: 10,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Noodles"
+        category: "Peanuts"
     }, {
         _id: "30",
         name: "Roasted Peanut",
         image: food_30,
         price: 10,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Noodles"
+        category: "Peanuts"
     }, {
         _id: "31",
         name: "Masala Shing",
         image: food_31,
         price: 10,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Noodles"
+        category: "Peanuts"
     }, {
         _id: "32",
         name: "Masala Chana",
         image: food_32,
         price: 10,
         description: "A savory and crunchy Indian snack mix, bursting with spices and flavors, perfect for any time munching.",
-        category: "Noodles"
+        category: "Peanuts"
     }
 ]
