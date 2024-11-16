@@ -8,8 +8,8 @@ const Footer = () => {
     <div className='footer' id='footer'>
       <div className="footer-content">
         <div className="footer-content-left">
-            <img src={assets.insta_cook} alt="" />
-            <p>"Explore a diverse range of cuisines and dishes tailored to satisfy every craving, from comfort classics to exotic specialties."</p>
+            <img src={assets.logos} alt="" />
+            <p>"Crunch into happiness with every bite of our flavorful Namkeen delights!"</p>
             <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt="" />
                 <img src={assets.twitter_icon} alt="" />
@@ -28,13 +28,13 @@ const Footer = () => {
         <div className="footer-content-right">
             <h2>GET IN TOUCH</h2>
             <ul>
-                <li>90290-66754</li>
-                <li>insta_cook@gamil.com</li>
+                <li>9825638753</li>
+                <li>rajeshjadav6848@gamil.com</li>
             </ul>
         </div>
       </div>
       <hr />
-      <p className="footer-copyright">Copyright 2024 © Tomato.com - All Right Reserved.</p>
+      <p className="footer-copyright">Copyright 2024 © Shivani.com - All Right Reserved.</p>
     </div>
   )
 }
